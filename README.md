@@ -4,13 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%2F+JavaScript+%2F+Kotlin+%2F+Python;Clean+%26+efficient+solutions" alt="Typing SVG" />
 
-<br/><br/>
 
-<a href="mailto:44szk44@gmail.com"><img src="https://img.shields.io/badge/Email-44szk44%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Contact-161b22?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-
-<br/><br/>
 
 <pre>
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬●
@@ -30,7 +24,7 @@
 
 <pre>
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬●
- ░░░░░░░░░░░░░░░░░ Языки ░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░░░░░░░░░░░░ Языки ░░░░░░░░░░░░░░░
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬●
 </pre>
 
