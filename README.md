@@ -6,16 +6,16 @@
 
 <br/><br/>
 
-<a href="mailto:44szk44@gmail.com"><img src="https://img.shields.io/badge/Email-44szk44%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/sszkk7" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40sszkk7-161b22?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 &nbsp;
-<a href="https://t.me/@sszkk7"><img src="https://img.shields.io/badge/Telegram-Contact-161b22?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:44szk44@gmail.com"><img src="https://img.shields.io/badge/Email-44szk44%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
 <h2>
 <pre>
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-  ░░░░░░░░░░░░ A B O U T ME ░░░░░░░░░░░░░
+ ░░░░░░░░░░░░░░░░░ A B O U T ░░░░░░░░░░░░░░░░░░
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 </pre>
 </h2>
